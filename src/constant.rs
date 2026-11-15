@@ -12,7 +12,9 @@ pub const NEMOTRON3: &'static str = "nvidia/nemotron-3-ultra-550b-a55b:free";
 
 
 // 百炼
-pub const DEEPSEEK: &'static str = "deepseek-ai/DeepSeek-V4.1-Flash-1017";
+// pub const DEEPSEEK: &'static str = "deepseek-ai/DeepSeek-V4.1-Flash-1017";
+pub const DEEPSEEK: &'static str = "deepseek-ai/DeepSeek-V4-Pro-0813";
+pub const GLM: &'static str = "ZhipuAI/GLM-5.3";
 
 
 
